@@ -14,10 +14,9 @@
   "SuperBit.enPos.forward|block": "正转",
   "SuperBit.enPos.reverse|block": "反转",
   "SuperBit.enPos.stop|block": "停止",
-  "SuperBit.PWMOFF|block":  "关闭PWM输出|%index"
-  
-
-  
-
- 
+  "SuperBit.PWMOFF|block":  "关闭PWM输出|%index",
+  "SuperBit.startbit_ASRSETMODE|block": "语音识别模块设置为%mode模式",
+  "SuperBit.startbit_ASRREAD|block": "语音识别模块获取识别词条编号",
+  "SuperBit.startbit_ASRAddWords|block": "语音识别模块添加词条编号|%idnum 拼音|%words",
+  "SuperBit.startbit_ASRWORDSERASE|block": "擦除全部词条" 
 }
