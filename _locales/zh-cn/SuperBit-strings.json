@@ -21,5 +21,15 @@
   "SuperBit.startbit_ASRSETMODE|block": "语音识别模块设置为%mode模式",
   "SuperBit.startbit_ASRREAD|block": "语音识别模块获取识别词条编号",
   "SuperBit.startbit_ASRAddWords|block": "语音识别模块添加词条编号|%idnum 拼音|%words",
-  "SuperBit.startbit_ASRWORDSERASE|block": "擦除全部词条" 
+  "SuperBit.startbit_ASRWORDSERASE|block": "擦除全部词条",
+  "SuperBit.startbit_mp3button.PLAY|block": "播放",
+  "SuperBit.startbit_mp3button.PAUSE|block": "暂停",
+  "SuperBit.startbit_mp3button.PREV|block": "上一首",
+  "SuperBit.startbit_mp3button.NEXT|block": "下一首",
+  "SuperBit.startbit_mp3Loop.ON|block": "开启",
+  "SuperBit.startbit_mp3Loop.OFF|block": "关闭",
+  "SuperBit.startbit_MP3_BUTTON|block": "MP3模块 |%button 歌曲",
+  "SuperBit.startbit_MP3_VOL|block": "MP3模块音量 |%value",
+  "SuperBit.startbit_MP3_SINGLE_LOOP|block": "MP3模块单曲循环 |%state",
+  "SuperBit.startbit_MP3_PLAY_NUM|block": "MP3模块播放序号|%num 歌曲"
 }
