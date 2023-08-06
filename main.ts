@@ -483,6 +483,7 @@ namespace SuperBit {
     }
 
     //% weight=96 blockId=startbit_ASRSETMODE block="Set to |%mode mode"
+    //% subcategory=Sensor
     export function startbit_ASRSETMODE(mode: ASRMode) {
         WireWriteDataArray(ASR_I2C_ADDR, ASR_MODE_ADDR, mode);
     }
